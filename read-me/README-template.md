@@ -12,7 +12,7 @@ Users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 
 ### Site URL
-- Live Site URL: 
+- Live Site URL: https://beautiful-profiterole-2851e2.netlify.app/
 
 ### Built with
 - Semantic HTML5 markup

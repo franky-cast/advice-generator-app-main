@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://beautiful-profiterole-2851e2.netlify.app/
+- Live Site URL: https://random-advice-api.netlify.app/
 
 ## My process
 
